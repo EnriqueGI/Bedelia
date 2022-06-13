@@ -1,0 +1,11 @@
+C:\Users\enriq\source\repos\Bedelias\Bedelias\bin\Debug\Bedelias.exe.config
+C:\Users\enriq\source\repos\Bedelias\Bedelias\bin\Debug\Bedelias.exe
+C:\Users\enriq\source\repos\Bedelias\Bedelias\bin\Debug\Bedelias.pdb
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.csproj.AssemblyReference.cache
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.Form1.resources
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.Properties.Resources.resources
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.csproj.GenerateResource.cache
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.exe
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.pdb
+C:\Users\enriq\source\repos\Bedelias\Bedelias\obj\Debug\Bedelias.FormDocente.resources
